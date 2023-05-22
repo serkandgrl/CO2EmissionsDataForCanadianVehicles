@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 pd.set_option("display.max_columns", 500)
 pd.set_option("display.width", 500)
 
-df = pd.read_csv("D:\DataAnalysis\CO2EmissionsDataForCanadianVehicles\datacamp_workspace_export_2023-05-22 01_16_15.csv")
+df = pd.read_csv("dataset.csv")
 
 """
 "Make" - The company that manufactures the vehicle.
